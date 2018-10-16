@@ -1,4 +1,4 @@
 # week9
 Practice
 
-Demo: https://github.com/risalim/week9
+Demo: https://risalim.github.io/week9/
